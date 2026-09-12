@@ -6,7 +6,7 @@
   2. Replace the src below with that path — e.g. src="./assets/logo.png"
   3. Recommended size: square or wide, transparent background, at least 300px wide
 -->
-<img src="./assets/logo.png" width="120" alt="CloudExify Logo" />
+<img src="./logo.png" width="120" alt="CloudExify Logo" />
 
 <br/>
 
